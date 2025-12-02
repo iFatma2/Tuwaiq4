@@ -1,1 +1,1 @@
-print("welcome to main")
+print("welcome to Tuwaiq")
